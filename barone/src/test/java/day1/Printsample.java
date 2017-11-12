@@ -6,5 +6,6 @@ public class Printsample {
   @Test
   public void f() {
 	  System.out.println("day1");
+	  System.out.println("day2");
   }
 }
