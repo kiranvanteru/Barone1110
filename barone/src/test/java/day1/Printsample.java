@@ -7,5 +7,6 @@ public class Printsample {
   public void f() {
 	  System.out.println("day1");
 	  System.out.println("day2");
+	  System.out.println("2nd part");
   }
 }
